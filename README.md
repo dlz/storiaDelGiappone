@@ -71,8 +71,25 @@ ___
 
 * __Clan Minamoto__
 
+
 ###Époques de Kamakura, de Muromachi
 ----------------------------------------
+* __Minamoto no Yoritomo__
+
+* __Minamoto no Yoshitsune__
+
+* __dame Shizuka__
+
+* __Minamoto no Yoshinaka__
+
+* __Ashikaga Yoshimasa__
+
+* __Hino Tomiko__
+
+* __Empereur Tsuchimikado postérieur__
+
+* __Hōjō Masako__
+
 
 ###Ère des pays en guerre
 ----------------------------------------
