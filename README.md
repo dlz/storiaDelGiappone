@@ -22,6 +22,28 @@ storiaDelGiappone
 
 ###Périodes Asuka, Nara
 --------------------
+* __Clan Soga__ : __Soga no Iruka__
+
+* __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__
+
+  __Princesse Hishihito__
+
+* __Prince Shōtoku__
+
+* __Prince Naka no ôe__ ou __Empereur Tenchi__
+
+* __Prince Karu__ ou __Empereur Kōtoku__
+
+* __Prince Ōama__ ou __Empereur Tenmu__
+
+* __Princesse Nukata__
+
+* __Prince Ōtomo__ ou __Empereur Kōbun__
+
+* __Uno no Sarara__ ou __Impératrice Jitō__
+
+* __Princess Tōchi__
+
 
 ###Époque de Hei'an
 --------------------
