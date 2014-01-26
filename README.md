@@ -22,6 +22,12 @@ storiaDelGiappone
 
 ###Périodes Asuka, Nara
 --------------------
+######Réforme de Taika
+
+######Guerre de Jinshin
+
+___
+
 * __Clan Soga__ : __Soga no Iruka__
 
 * __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__
