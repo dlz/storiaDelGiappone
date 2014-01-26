@@ -53,6 +53,23 @@ ___
 
 ###Époque de Hei'an
 --------------------
+* __Prince Kaminu__ ou __Empereur Saga__
+
+* __Fujiwara no Kusuko__
+
+* __Prince Ate__ ou __Empereur Heizei__ ou __Nara no Mikado__
+
+* __Fujiwara no Tokihira__
+
+* __Sugawara no Michizane__
+
+* __Fujiwara no Michinaga__
+
+* __Murasaki Shikibu__
+
+* __Clan Taira__ : __Taira no Kiyomori__
+
+* __Clan Minamoto__
 
 ###Époques de Kamakura, de Muromachi
 ----------------------------------------
