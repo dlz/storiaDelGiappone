@@ -1,37 +1,39 @@
 storiaDelGiappone
 =================
 
-Âge de mythe
+###Âge de mythe
 --------------------
-* Yamato Takeru ou Prince Ōsu - troisième fils de l'empereur Keikō
-  travesti lors de la conquête à Kumaso (Kyûsyû)  
-  http://bushoojapan.com/tomorrow/2013/10/12/7534
+* __Yamato Takeru__ ou __Prince Ōsu__ - troisième fils de l'empereur Keikō<br>
+  travesti lors de la conquête à Kumaso (Kyûsyû) <br>
+  http://bushoojapan.com/tomorrow/2013/10/12/7534 <br>
   http://www.kanko-miyazaki.jp/kaido/50story/densetsu/038/
+  
 
-* Jinmu - le premier empereur - descendant de la déité shinto Amaterasu
-  Le trône du chrysanthème de la maison impériale actuelle du Japon est sa descendance directe
+* __Jinmu__ - le premier empereur - descendant de la déité shinto Amaterasu <br>
+  Le trône du chrysanthème de la maison impériale actuelle du Japon est sa descendance directe <br>
   fondateur de la cours Yamato (l'ouest du Japon)
 
-* Himiko - reine pacifique du Yamatai (Nara ou Kyûsyû)
+
+* __Himiko__ - reine pacifique du Yamatai (Nara ou Kyûsyû)
 
 
-Périodes Asuka, Nara
+###Périodes Asuka, Nara
 --------------------
 
-Époque de Hei'an
+###Époque de Hei'an
 --------------------
 
-Époques de Kamakura, de Muromachi
+###Époques de Kamakura, de Muromachi
 ----------------------------------------
 
-Ère des pays en guerre
+###Ère des pays en guerre
 ----------------------------------------
 
-Époque d'Edo
+###Époque d'Edo
 --------------------
 
-Fin du shogunat Tokugawa, Ère Meiji
+###Fin du shogunat Tokugawa, Ère Meiji
 ----------------------------------------
 
-Ères Taishō, Shōwa
+###Ères Taishō, Shōwa
 --------------------
