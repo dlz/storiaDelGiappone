@@ -94,6 +94,51 @@ ___
 ###Ère des pays en guerre
 ----------------------------------------
 
+######Armée de l'est
+* __Tokugawa Ieyasu__
+* __Fukushima Masanori__
+* __Yamauchi Kazutoyo__
+* __Sanada Nobuyuki__
+
+######Armée de l'ouest
+* __Ishida Mitsunari__
+* __Naoe Kanetsugu__
+* __Uesugi Kagakatsu__
+* __Sanada Yukimura__
+* __Ōtani Yoshitsugu__
+
+___
+
+* __Uesugi Kenshin__
+* __Uesugi Kagetora__
+* __Takeda Shingen__
+* __Takeda Katsuyori__
+* __Yamagata Masakage__
+* __Oda Nobunaga__
+* __Maeda Toshiie__
+* __Maeda Keijirō__ ou __Maeda Toshimasu__
+* __Date Masamune__
+* __Chōsokabe Motochika__
+* __Takenaka Shigeharu__ ou __Takenaka Hanbei__
+* __Katō Kiyomasa__
+* __Saitō Yoshitatsu__
+* __Kojima Yatarō__
+* __Akechi Mitsuyoshi__
+
+___
+
+######Incident du temple Honnō
+* __Akechi Mitsuhide__
+
+___
+
+* __Hosokawa Tama__ ou __Hosokawa Gracia__
+* __Hosokawa Tadaoki__
+* __Toyotomi Hideyoshi__
+
+
+
+
 ###Époque d'Edo
 --------------------
 
