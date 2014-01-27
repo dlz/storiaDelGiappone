@@ -28,7 +28,10 @@ storiaDelGiappone
 
 ___
 
-* __Clan Soga__ : __Soga no Iruka__
+* __Clan Soga__ - enseignant du bouddhisme du _Prince Shôtoku_ : <br>
+    __Soga no Iruka__ <br>
+    prise de pouvoir après la mort du _Prince Shôtoku_ <br>
+    effacé par _Prince Naka no Ôe_ et _Fujiwara no Kamatari_ <br>
 
 * __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__
 
@@ -39,7 +42,7 @@ ___
   L'envoi des missions dans la Chine des Sui <br>
   La promulgation de la première constitution du Japon http://www.universalis.fr/encyclopedie/japon-arts-et-culture-la-litterature/1-la-litterature-classique/ <br>
   
-* __Prince Naka no ôe__ ou __Empereur Tenchi__
+* __Prince Naka no Ôe__ ou __Empereur Tenchi__
 
 * __Prince Karu__ ou __Empereur Kōtoku__
 
