@@ -23,7 +23,7 @@ storiaDelGiappone
 ###Périodes Asuka, Nara
 --------------------
 ######Réforme de Taika : <br>
-  Meurtre de _Soga no Iruka_
+  Meurtre de _Soga no Iruka_ <br>
   Reprise de pouvoir par la maison impériale <br>
   Défaite du _clan Soga_ <br>
   Création d'un gouvernement centralisé sur le modèle chinois des Tang <br>
@@ -31,10 +31,18 @@ storiaDelGiappone
   Création d'un réseau routier et postal <br>
   Redistribution des terres <br>
   Système Ritsuryō : ritsu = un code pénal, ryō = un code administratif. Système de lois du Japon médiéval basé sur le confucianisme et sur le légisme venus de Chine. <br>
-  
+  <br>
 
-######Guerre de Jinshin
+######Guerre de Jinshin : <br>
+  L'amrée du _Prince Ōama_ remporte la victoire <br>
+  _Prince Ōama_ devient _Empereur Tenmu_ <br>
+  <br>
 
+######Bataille de Hakusukinoe ou Bataille de Baekgang : <br>
+   Le Silla coréen allié aux Tang chinois VS le Baekje coréen allié au Wa japonais <br>
+   écrasante victoire Silla et chinoise <br>
+   _Empereur Tenchi_ <br>
+   <br>
 ___
 
 * __Clan Soga__ - enseignant du bouddhisme du _Prince Shôtoku_ : <br>
@@ -42,28 +50,37 @@ ___
     prise de pouvoir après la mort du _Prince Shôtoku_ <br>
     effacé par _Prince Naka no Ôe_ et _Fujiwara no Kamatari_ <br>
 
-* __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__
-
-  __Princesse Hishihito__
+* __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__ <br>
 
 * __Prince Shōtoku__ - fils de l'_empereur Yōmei_ <br>
   La propagation du bouddhisme <br>
   L'envoi des missions dans la Chine des Sui <br>
   La promulgation de la première constitution du Japon http://www.universalis.fr/encyclopedie/japon-arts-et-culture-la-litterature/1-la-litterature-classique/ <br>
   
-* __Prince Naka no Ôe__ ou __Empereur Tenchi__
+* __Prince Naka no Ôe__ ou __Empereur Tenchi__ <br>
+  Déplacement de la capitale à Ôe (Shiga) http://kotobank.jp/word/%E8%BF%91%E6%B1%9F%E5%A4%A7%E6%B4%A5%E5%AE%AE?dic=daijisen&oid=02135700 <br>
 
-* __Prince Karu__ ou __Empereur Kōtoku__
+* __Prince Karu__ ou __Empereur Kōtoku__ - empereur substitut du _Prince Naka no Ôe_ <br>
+  Exécution des rebelles <br>
+  Mort solitaire <br>
 
-* __Prince Ōama__ ou __Empereur Tenmu__
+* __Princesse Hashihito__ - soeur du _Prince Naka no Ôe_ ; épouse de l'_empereur Kōtoku_ <br>
 
-* __Princesse Nukata__
+* __Prince Arima__ - fils de l'_empereur Kōtoku_ <br>
+  effacé par _Prince Naka no Ôe_ et _Soga no Akae_ <br>
 
-* __Prince Ōtomo__ ou __Empereur Kōbun__
+* __Prince Ōama__ ou __Empereur Tenmu__ <br>
 
-* __Uno no Sarara__ ou __Impératrice Jitō__
+* __Princesse Nukata__ - épouse du _Prince Ōama_ ; amante du _Prince Naka no Ôe_ <br>
+  Source d'allumage de la révolte du _Prince Ōama_ après la mort du _Prince Naka no Ôe_ <br>
 
-* __Princess Tōchi__
+* __Prince Ōtomo__ ou __Empereur Kōbun__ - fils du _Prince Naka no Ôe_ <br>
+  Mort de maladie <br>
+
+* __Uno no Sarara__ ou __Impératrice Jitō__ - épouse du _Prince Naka no Ôe_ <br>
+
+* __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
+  renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
 
 
 ###Époque de Hei'an
