@@ -46,9 +46,12 @@ storiaDelGiappone
 ___
 
 * __Clan Soga__ - enseignant du bouddhisme du _Prince Shôtoku_ : <br>
-    __Soga no Iruka__ <br>
+    __Soga no Emishi__ - père de _Soga no Iruka_ : <br>
+    envoi des missions dans la Chine des Tang <br>
+    suicide après la mort de _Soga no Iruka_ <br>
+    __Soga no Iruka__  :<br>
     prise de pouvoir après la mort du _Prince Shôtoku_ <br>
-    effacé par _Prince Naka no Ôe_ et _Fujiwara no Kamatari_ <br>
+    effacé par _Prince Naka no Ôe_ et _Fujiwara no Kamatari_ lors de la réforme de Taika<br>
 
 * __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__ <br>
 
