@@ -82,11 +82,11 @@ ___
 * __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
   renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
 
-* __Impératrice Kōmyō__ ou __ Hujiwara no Kômyôshi__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
+* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
   Modèle de l'Avalokiteśvara à onze têtes du temple Hokke <br>
   Propriétaire des provinces <br>
 
-* __Empereur Shōmu__ 
+* __Empereur Shōmu__ <br>
   Construction des statues de Bouddha suivant l'oracle reçu au Sanctuaire du Dieu aux huit banderoles à Usa _L'Usa Hachiman-gū_ <br>
 ___
 
