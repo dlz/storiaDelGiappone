@@ -57,7 +57,7 @@ ___
   L'envoi des missions dans la Chine des Sui <br>
   La promulgation de la première constitution du Japon http://www.universalis.fr/encyclopedie/japon-arts-et-culture-la-litterature/1-la-litterature-classique/ <br>
   
-* __Prince Naka no Ôe__ ou __Empereur Tenchi__ <br>
+* __Prince Naka no Ôe__ ou __Empereur Tenchi__ - frère aîné du _Prince Ōama_ <br>
   Déplacement de la capitale à Ôe (Shiga) http://kotobank.jp/word/%E8%BF%91%E6%B1%9F%E5%A4%A7%E6%B4%A5%E5%AE%AE?dic=daijisen&oid=02135700 <br>
 
 * __Prince Karu__ ou __Empereur Kōtoku__ - empereur substitut du _Prince Naka no Ôe_ <br>
@@ -69,7 +69,7 @@ ___
 * __Prince Arima__ - fils de l'_empereur Kōtoku_ <br>
   effacé par _Prince Naka no Ôe_ et _Soga no Akae_ <br>
 
-* __Prince Ōama__ ou __Empereur Tenmu__ <br>
+* __Prince Ōama__ ou __Empereur Tenmu__ - frère cadet du _Prince Naka no Ôe_ <br>
 
 * __Princesse Nukata__ - épouse du _Prince Ōama_ ; amante du _Prince Naka no Ôe_ <br>
   Source d'allumage de la révolte du _Prince Ōama_ après la mort du _Prince Naka no Ôe_ <br>
@@ -81,6 +81,17 @@ ___
 
 * __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
   renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
+
+* __Impératrice Kōmyō__ ou __ Hujiwara no Kômyôshi__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
+  Modèle de l'Avalokiteśvara à onze têtes du temple Hokke <br>
+  Propriétaire des provinces <br>
+
+* __Empereur Shōmu__ 
+  Construction des statues de Bouddha suivant l'oracle reçu au Sanctuaire du Dieu aux huit banderoles à Usa _L'Usa Hachiman-gū_ <br>
+___
+
+* __Ōtomo no Yakamochi__ - poète waka, membre des Trente-six grands poètes ; appartenant au Clan Ōtomo <br>
+  Il aurait compilé le Man'yōshū <br>
 
 
 ###Époque de Hei'an
