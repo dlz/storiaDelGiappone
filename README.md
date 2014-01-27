@@ -34,8 +34,11 @@ ___
 
   __Princesse Hishihito__
 
-* __Prince Shōtoku__
-
+* __Prince Shōtoku__ - fils de l'_empereur Yōmei_ <br>
+  La propagation du bouddhisme <br>
+  L'envoi des missions dans la Chine des Sui <br>
+  La promulgation de la première constitution du Japon http://www.universalis.fr/encyclopedie/japon-arts-et-culture-la-litterature/1-la-litterature-classique/ <br>
+  
 * __Prince Naka no ôe__ ou __Empereur Tenchi__
 
 * __Prince Karu__ ou __Empereur Kōtoku__
