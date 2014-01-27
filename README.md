@@ -138,9 +138,19 @@ ___
 
 
 
-
 ###Époque d'Edo
 --------------------
+######Ōoku
+* __Tokugawa Iemitsu__
+* __Kasuga no Tsubone__
+
+___
+
+######Vendetta d'Akō ou 47 samouraïs
+* __Tokugawa Tsunayoshi__
+* __Keisyo in__
+
+
 
 ###Fin du shogunat Tokugawa, Ère Meiji
 ----------------------------------------
