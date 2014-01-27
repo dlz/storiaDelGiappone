@@ -22,7 +22,16 @@ storiaDelGiappone
 
 ###Périodes Asuka, Nara
 --------------------
-######Réforme de Taika
+######Réforme de Taika : <br>
+  Meurtre de _Soga no Iruka_
+  Reprise de pouvoir par la maison impériale <br>
+  Défaite du _clan Soga_ <br>
+  Création d'un gouvernement centralisé sur le modèle chinois des Tang <br>
+  Révision du système des taxes et de l’administration <br>
+  Création d'un réseau routier et postal <br>
+  Redistribution des terres <br>
+  Système Ritsuryō : ritsu = un code pénal, ryō = un code administratif. Système de lois du Japon médiéval basé sur le confucianisme et sur le légisme venus de Chine. <br>
+  
 
 ######Guerre de Jinshin
 
