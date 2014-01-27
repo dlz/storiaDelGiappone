@@ -82,12 +82,31 @@ ___
 * __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
   renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
 
-* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
+* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ ou __Impériatrice Shôtoku__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
   Modèle de l'Avalokiteśvara à onze têtes du temple Hokke <br>
   Propriétaire des provinces <br>
+  Ordination pabbajjā en moniale <br>
+  Concession du trône à l'_Empereur Junnin_ <br>
+  Reprise du pouvoir impérial sous le nom d'_Impériatrice Shôtoku_ avec _Fujiwara no Nakamaro_ après avoir aboli l'_Empereur Junnin_ <br>
+  Morte l'année suivante de la reprise de pouvoir <br>
+
 
 * __Empereur Shōmu__ <br>
   Construction des statues de Bouddha suivant l'oracle reçu au Sanctuaire du Dieu aux huit banderoles à Usa _L'Usa Hachiman-gū_ <br>
+
+* __Impératrice Kōken__ - fille de l'_Empereur Shōmu_ et de l'_Impératrice Kōmyō_ <br>
+  La première princesse héritière au Japon <br>
+  Une conspiration du Clan Fujiwara <br>
+  L'accession au trône lorsque son père abdique en sa faveur <br>
+  L'accession au trône lorsqu'elle est célibataire <br>
+  Croyante du bouddisme <br>
+  
+* __Fujiwara no Nakamaro__ - marié ; amant de l'_Impératrice Kōken_ <br>
+
+* __moine Dōkyō__ - amant de l'_Impératrice Kōken_ <br>
+  Il soigne la maladie de l'_Impératrice Kōken_ <br>
+  Mort à la province de Shimotsuke (Tochigi et Gumma) <br>
+
 ___
 
 * __Ōtomo no Yakamochi__ - poète waka, membre des Trente-six grands poètes ; appartenant au Clan Ōtomo <br>
