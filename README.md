@@ -151,9 +151,16 @@ ___
 * __Keisyo in__
 
 
-
 ###Fin du shogunat Tokugawa, Ère Meiji
 ----------------------------------------
+
+######Les forces anti-bakufu
+* __Domaine de Satsuma__
+* __Domaine de Chōshū__
+
+######Les forces pro-bakufu
+* __Vassaux du shogun__
+* __Domaine d'Aizu__
 
 ###Ères Taishō, Shōwa
 --------------------
