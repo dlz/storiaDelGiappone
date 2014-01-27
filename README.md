@@ -56,6 +56,8 @@ ___
   La propagation du bouddhisme <br>
   L'envoi des missions dans la Chine des Sui <br>
   La promulgation de la première constitution du Japon http://www.universalis.fr/encyclopedie/japon-arts-et-culture-la-litterature/1-la-litterature-classique/ <br>
+  La construction du temple Hōryū (Nara) - une des plus anciennes constructions en bois du monde <br>
+  Selon l'[auréole](http://www.emuseum.jp/detail/100766?x=&y=&s=&d_lang=fr&s_lang=ja&word=%E6%95%91%E4%B8%96%E8%A6%B3%E9%9F%B3&class=&title=&c_e=&region=&era=&cptype=&owner=&pos=1&num=5&mode=simple&century=) de la Triade de [Sakyamuni](http://www.emuseum.jp/detail/100057/000/000?mode=detail&d_lang=ja&s_lang=ja&class=&title=&c_e=&region=&era=&century=&cptype=&owner=&pos=153&num=8), il est modèle du [bouddha du salut](http://ameblo.jp/kodaitantei/image-10307876315-10205219538.html) dans la salle des rêves la Yumedono. 
   
 * __Prince Naka no Ôe__ ou __Empereur Tenchi__ - frère aîné du _Prince Ōama_ <br>
   Déplacement de la capitale à Ôe (Shiga) http://kotobank.jp/word/%E8%BF%91%E6%B1%9F%E5%A4%A7%E6%B4%A5%E5%AE%AE?dic=daijisen&oid=02135700 <br>
@@ -82,7 +84,7 @@ ___
 * __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
   renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
 
-* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ ou __Impériatrice Shôtoku__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
+* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ ou __Impératrice Shôtoku__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
   Modèle de l'Avalokiteśvara à onze têtes du temple Hokke <br>
   Propriétaire des provinces <br>
   Ordination pabbajjā en moniale <br>
