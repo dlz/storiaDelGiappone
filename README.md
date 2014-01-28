@@ -34,7 +34,7 @@ storiaDelGiappone
   <br>
 
 ######Guerre de Jinshin : <br>
-  L'amrée du _Prince Ōama_ remporte la victoire <br>
+  L'armée du _Prince Ōama_ remporte la victoire <br>
   _Prince Ōama_ devient _Empereur Tenmu_ <br>
   <br>
 
