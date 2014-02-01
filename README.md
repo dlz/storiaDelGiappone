@@ -125,15 +125,24 @@ ___
 ######Incident Kusuko : <br>
    Conflit entre l'_Empereur Heizei_ et l'_Empereur Saga_ <br>
    Fini par l'ordination Pabbajja de l'_Empereur Heizei_ <br>
+   Deux branches cadettes du clan Fujiwara : _Clan Shikike_ remplacé par le _clan Hokke_ <br>
+   Nagaokakyō (Kyôto) - la capitale du Japon de l'_Empereur Kanmu_ 
    
    <br>
 ___
 
-* __Prince Kaminu__ ou __Empereur Saga__
+*__Clan Shikike__ : _Fujiwara no Umakai_ <br>
 
-* __Fujiwara no Kusuko__ - fille de _Fujiwara no Tanetsugu_ <br>
+*__clan Hokke__ : 
+ __Fujiwara no Fusasaki__ - fondateur du clan <br>
+ __Fujiwara no Nakanari__ - fils de _Fujiwara no Tanetsugu_ ; frère de _Fujiwara no Kusuko_ <br>
+ __Fujiwara no Kusuko__ - fille de _Fujiwara no Tanetsugu_ ; amante du _Prince Ate_ pendant le mariage de ce dernier et sa fille aînée <br>
+ une fois expulsée, rentrée au palais pendant la règne de l'_Empereur Heizei_ <br>
 
-* __Prince Ate__ ou __Empereur Heizei__ ou __Nara no Mikado__
+* __Prince Kaminu__ ou __Empereur Saga__ - frère cadet de l'_Empereur Heizei_ <br>
+  Devenu empereur trois ans après le couronnement de l'_Empereur Heizei_ <br>
+
+* __Prince Ate__ ou __Empereur Heizei__ ou __Nara no Mikado__ - fils de l'_Empereur Kanmu_ <br>
 
 * __Fujiwara no Tokihira__
 
