@@ -53,7 +53,9 @@ ___
     prise de pouvoir après la mort du _Prince Shôtoku_ <br>
     effacé par _Prince Naka no Ôe_ et _Fujiwara no Kamatari_ lors de la réforme de Taika<br>
 
-* __Clan Fujiwara__ : __Fujiwara no Kamatari__ ou __Nakatomi no Kamatari__ <br>
+* __Clan Fujiwara__ : <br>
+  __Nakatomi no Kamatari__ ou __Fujiwara no Kamatari__ - beau-père de l'_Empereur Tenmu_ et de l'_Empereur Kōbun_:<br>
+  fondateur du clan <br>
 
 * __Prince Shōtoku__ - fils de l'_empereur Yōmei_ <br>
   La propagation du bouddhisme <br>
@@ -120,9 +122,16 @@ ___
 
 ###Époque de Hei'an
 --------------------
+######Incident Kusuko : <br>
+   Conflit entre l'_Empereur Heizei_ et l'_Empereur Saga_ <br>
+   Fini par l'ordination Pabbajja de l'_Empereur Heizei_ <br>
+   
+   <br>
+___
+
 * __Prince Kaminu__ ou __Empereur Saga__
 
-* __Fujiwara no Kusuko__
+* __Fujiwara no Kusuko__ - fille de _Fujiwara no Tanetsugu_ <br>
 
 * __Prince Ate__ ou __Empereur Heizei__ ou __Nara no Mikado__
 
