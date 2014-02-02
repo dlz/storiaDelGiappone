@@ -258,4 +258,10 @@ ref. [たかじんのそこまで言って委員会 140202 動画](http://www.tv
 
 [![](http://i.imgur.com/YFYKpAW.jpg)](http://i.imgur.com/YFYKpAW.jpg)
 
+*Parcours bureaucratique <br>
+[![](http://i.imgur.com/4OZpHvo.jpg)](http://i.imgur.com/4OZpHvo.jpg)
+
+*Formation <br>
+[![](http://i.imgur.com/zx1wNdH.jpg)](http://i.imgur.com/zx1wNdH.jpg)
+[![](http://i.imgur.com/Ysjncc8.jpg)](http://i.imgur.com/Ysjncc8.jpg)
 
