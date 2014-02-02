@@ -253,7 +253,8 @@ ___
 
 ###Annexe
 --------------------
-######Les premiers ministres (Chronologiaue d'en haut à droite vers en bas à gauche) ref. [たかじんのそこまで言って委員会 140202 動画](http://www.tvjiro.com/%E3%81%9F%E3%81%8B%E3%81%98%E3%82%93%E3%81%AE%E3%81%9D%E3%81%93%E3%81%BE%E3%81%A7%E8%A8%80%E3%81%A3%E3%81%A6%E5%A7%94%E5%93%A1%E4%BC%9A-140202-%E5%8B%95%E7%94%BB/)
+######Les premiers ministres (Chronologiaue d'en haut à droite vers en bas à gauche) <br>
+ref. [たかじんのそこまで言って委員会 140202 動画](http://www.tvjiro.com/%E3%81%9F%E3%81%8B%E3%81%98%E3%82%93%E3%81%AE%E3%81%9D%E3%81%93%E3%81%BE%E3%81%A7%E8%A8%80%E3%81%A3%E3%81%A6%E5%A7%94%E5%93%A1%E4%BC%9A-140202-%E5%8B%95%E7%94%BB/)
 
 [![](http://i.imgur.com/YFYKpAW.jpg)](http://i.imgur.com/YFYKpAW.jpg)
 
