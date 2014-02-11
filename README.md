@@ -89,7 +89,7 @@ ___
 * __Princess Tōchi__ - fille du _Prince Ōama_ et de la _Princesse Nukata_ ; épouse du _Prince Ōtomo_ <br>
   renvoyée par le _Prince Ōtomo_ à ses parents après la victoire de Jinshin du _Prince Ōama_
 
-* __Impératrice Kōmyō__ ou __Hujiwara no Kômyôshi__ ou __Impératrice Shôtoku__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
+* __Impératrice Kōmyō__ ou __Fujiwara no Kômyôshi__ ou __Impératrice Shôtoku__ - demi-sœur maternelle et épouse de l'_Empereur Shōmu_ <br>
   Modèle de l'Avalokiteśvara à onze têtes du temple Hokke <br>
   Propriétaire des provinces <br>
   Ordination pabbajjā en moniale <br>
@@ -144,15 +144,31 @@ ___
 
 * __Prince Ate__ ou __Empereur Heizei__ ou __Nara no Mikado__ - fils de l'_Empereur Kanmu_ <br>
 
-* __Fujiwara no Tokihira__
+* __Fujiwara no Tokihira__ <br>
+L'exil de _Sugawara no Michizane_ <br>
 
-* __Sugawara no Michizane__
+* __Sugawara no Michizane__ <br>
+Exilé par _Fujiwara no Tokihira_ <br>
+Devenu le Dieu du Tonnerre <br>
+Répétition des batailles psychologiques contre un fonctionnaire en divination <br>
 
-* __Fujiwara no Michinaga__
+* __Fujiwara no Michinaga__ <br>
+Le chef du clan Fujiwara en son âge d'or <br>
+« Ce monde, est mon monde, la lune la plus pleine jamais décrue » <br>
+Ses descendants monopolisent le pouvoir gouvernemental <br>
+Ils lâchent une flèche sur l'empereur en se battant pour une femme, détruisent en partie le palai. <br>
 
-* __Murasaki Shikibu__
+* __Murasaki Shikibu__ - tutrice de la fille de _Fujiwara no Michinaga_<br>
+Succès de l'ouvrage Le dit du Genji <br>
+Son père en chômage est promu en fonctionnaire du Japon <br> 
 
-* __Clan Taira__ : __Taira no Kiyomori__
+######Les deux clans descendants de la maison impériale : <br>
+Devenus des samouraïs en provinces sous la gouvernance du clan Fujiwara <br> 
+* __Clan Taira__ : <br>
+  Les descendants sont abrutis après la mort de _Taira no Kiyomori_ <br>
+  Ils noircissent les dents (maquillage), chantent des poèmes aux champs de bataille <br> 
+  __Taira no Kiyomori__ <br>
+  Reprise de pouvoir après être rentré de province <br>
 
 * __Clan Minamoto__
 
